@@ -23,9 +23,11 @@ To cite the paper/benchmark dataset, please use this bib file:
 ```
 
 ## This repository
-In this repository we publish two types of FME pipelines:
+In this repository, we publish two types of FME pipelines:
 - fme/benchmark_preperation: preprocess the restricted data from CadastreVision (Planetscope and SuperView)
 - fme/overlap_calculation: perform the overlap analysis between the cadastral boundaries from the CadastreVision dataset and physical topographic objects from several topographic maps 
 
 ## Software requirements
-Make sure FME Workbench 2024.0 is installed on your machine. Installation manuals and software documentation is available at: [https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Home.htm](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Home.htm 'https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Home.htm')
+Make sure FME Workbench 2024.0 is installed on your machine. Installation manuals and software documentation are available at: [https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Home.htm](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Home.htm 'https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Home.htm')
+
+
