@@ -1,6 +1,6 @@
 # Download restricted data
 
-PlanetScope and SuperView data have restricted access. Therefore, we cannot share the data directly through the benchmark dataset.
+PlanetScope and SuperView data have restricted access. Therefore, we cannot share the data directly in the benchmark dataset.
 Please follow the next steps to prepare the PlanetScope and SuperView data (please be aware that it is a manual process). There are two ways to download the imagery. 
 
 1.	Via an online portal:
