@@ -15,9 +15,9 @@ To cite the paper/benchmark dataset, please use this bib file:
   title={CadastreVision: A Benchmark Dataset for Cadastral Boundary Delineation from Multi-Resolution Earth Observation Images},
   author={Grift, Jeroen and Persello, Claudio and Grift, Jeroen and Koeva, Mila},
   journal={{ISPRS Journal of Photogrammetry and Remote Sensing},
-  volume={}
+  volume={217}
   number={}
-  pages={}
+  pages={91-100}
   year={2024}
 }
 ```
