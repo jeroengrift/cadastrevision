@@ -6,7 +6,7 @@ Claudio Persello,
 Mila Koeva 
 
 ## Paper
-- The related paper is available at: 
+- The related paper is available at: https://www.sciencedirect.com/science/article/pii/S0924271624003150
 - The related benchmark dataset is available at: 
 
 To cite the paper/benchmark dataset, please use this bib file:
