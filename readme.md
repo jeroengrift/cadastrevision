@@ -7,7 +7,7 @@ Mila Koeva
 
 ## Paper
 - The related paper is available at: https://www.sciencedirect.com/science/article/pii/S0924271624003150
-- The related benchmark dataset is available at: https://phys-techsciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/PT/OS3OWX
+- The related benchmark dataset is available at: https://phys-techsciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/PT/OS3OWX. Please be aware of the fact that the 8cm aerial imagery has not been published yet (due to upload restrictions). We will share this data as soon as possible
 
 To cite the paper/benchmark dataset, please use this bib file:
 ```
