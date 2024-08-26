@@ -30,7 +30,7 @@ In this repository, we publish two types of FME pipelines:
 - fme/overlap_calculation: perform the overlap analysis between the cadastral boundaries from the CadastreVision dataset and physical topographic objects from several topographic maps
 
 Auxilliary data is published in the data folder and contains:
-- Data/
+- data/
 
 ## Software requirements
 Make sure FME Workbench 2024.0 is installed on your machine. Installation manuals and software documentation are available at: [https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Home.htm](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Home.htm 'https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Home.htm')
