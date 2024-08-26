@@ -26,11 +26,19 @@ To cite the paper/benchmark dataset, please use this bib file:
 
 ## This repository
 In this repository, we publish two types of FME pipelines:
-- fme/benchmark_preperation: preprocess the restricted data from CadastreVision (Planetscope and SuperView)
+- fme/benchmark_preparation: preprocess the restricted data from CadastreVision (Planetscope and SuperView)
 - fme/overlap_calculation: perform the overlap analysis between the cadastral boundaries from the CadastreVision dataset and physical topographic objects from several topographic maps
 
-Auxilliary data is published in the data folder and contains:
-- data/
+Auxiliary data is published in the data folder and contains:
+- data/sample_tiles.gpkg: extents of the 90 sample tiles in GeoPackage format
+- data/bestuurlijke_grenzen.gpkg: country border of the Netherlands
+
+The topographic datasets are too large to share via DANS, so they could be downloaded with the following urls:
+- data/brk: Please follow the instructions here to download current data: https://app.pdok.nl/kadaster/kadastralekaart/download-viewer/
+- data/bgt: Please follow the instructions here to download current data: https://app.pdok.nl/lv/bgt/download-viewer/
+- data/brt: Please follow the instructions here to download current data: https://service.pdok.nl/brt/topnl/atom/top10nl.xml
+- data/brp: Please follow the instructions here to download current data: https://service.pdok.nl/rvo/brpgewaspercelen/atom/v1_0/basisregistratie_gewaspercelen_brp.xml
+- data/bag: Please follow the instructions here to download current data: https://www.kadaster.nl/-/kosteloze-download-bag-2-0-extract
 
 ## Software requirements
 Make sure FME Workbench 2024.0 is installed on your machine. Installation manuals and software documentation are available at: [https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Home.htm](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Home.htm 'https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Home.htm')
