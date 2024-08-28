@@ -9,7 +9,7 @@ Mila Koeva
 - The related paper is available at: https://www.sciencedirect.com/science/article/pii/S0924271624003150
 - The related benchmark dataset is available at: https://phys-techsciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/PT/OS3OWX
 
-Please be aware that the 8cm aerial imagery has not been published yet (due to upload restrictions). We will share this data as soon as possible
+Please be aware that the 8cm aerial imagery and the results of the overlap analysis (classfied cadastral reference) has not been published yet (due to upload restrictions). We will share this data as soon as possible
 
 To cite the paper/benchmark dataset, please use this bib file:
 ```
